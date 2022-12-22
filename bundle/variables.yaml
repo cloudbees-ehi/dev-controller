@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ehi
+- admin-user: damodaradevops-admin
+- manager-user: damodaradevops
